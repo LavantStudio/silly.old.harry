@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/lavant/Projects/CPP/sfml_prog/cmake-sfml-project/build/_deps/sfml-subbuild/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
